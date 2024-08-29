@@ -3,22 +3,22 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "enterpriseScaleCompanyPrefix": {
-      "value": "contoso"
+      "value": "8e1385f1-e317-4451-bebc-c317f71e604e"
     },
     "platformManagementGroup": {
-      "value": "contoso-platform"
+      "value": "8e1385f1-e317-4451-bebc-c317f71e604e"
     },
     "IdentityManagementGroup": {
-      "value": "contoso-identity"
+      "value": "8e1385f1-e317-4451-bebc-c317f71e604e"
     },
     "managementManagementGroup": {
-      "value": "contoso-management"
+      "value": "8e1385f1-e317-4451-bebc-c317f71e604e"
     },
     "connectivityManagementGroup": {
-      "value": "contoso-connectivity"
+      "value": "8e1385f1-e317-4451-bebc-c317f71e604e"
     },
     "LandingZoneManagementGroup": {
-      "value": "contoso-landingzones"
+      "value": "8e1385f1-e317-4451-bebc-c317f71e604e"
     },
     "enableAMBAConnectivity": {
       "value": "Yes"
@@ -60,7 +60,7 @@
       "value": "rg-amba-monitoring-001"
     },
     "ALZMonitorResourceGroupLocation": {
-      "value": "eastus"
+      "value": "westeurope"
     },
     "ALZMonitorResourceGroupTags": {
       "value": {
@@ -68,7 +68,7 @@
       }
     },
     "ALZMonitorActionGroupEmail": {
-      "value": ""
+      "value": "azure@btc-it-services.com"
     },
     "ALZLogicappResourceId": {
       "value": ""
